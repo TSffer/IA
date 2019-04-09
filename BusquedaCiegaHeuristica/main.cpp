@@ -116,8 +116,8 @@ int main(int argc,char** argv)
     G->crear_edges();
     inicio = 4;
     destino = 9;
-    G->A_star(inicio,destino);
-    //G->busqueda_anchura(inicio,destino);
+    //G->A_star(inicio,destino);
+    G->busqueda_anchura(inicio,destino);
     glutMainLoop();
     return 0;
 }
