@@ -19,5 +19,6 @@ Luis Fernando Ttito Surco
   compilar ubuntu: python3 AppResNetv2.py
   
 5) Fine-Tuning-keras -> hecho con Google Colab
+
   Modelos probados: Resnet50 y Vgg16
   
