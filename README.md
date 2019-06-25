@@ -1,5 +1,6 @@
 # IA
 Trabajos de laboratorio de Inteligencia Artificial
+Luis Fernando Ttito Surco
 
 1) Busqueda Ciega y Heurística
   compilar ubuntu: g++ -std=c++11 -O2 main.cpp -o main -lglut -lGLU -lGL
@@ -15,3 +16,7 @@ Trabajos de laboratorio de Inteligencia Artificial
   
 4) Keras/AppResNetv2.py -> red convolucional: Modelo Utilizado ResNet50 de Keras/TensorFlow
   compilar ubuntu: python3 AppResNetv2.py
+  
+5) Fine-Tuning-keras -> hecho con Google Colab
+  Modelos probados: Resnet50 y Vgg16
+  
