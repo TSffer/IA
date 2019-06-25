@@ -1,5 +1,6 @@
 # IA
 Trabajos de laboratorio de Inteligencia Artificial
+
 Luis Fernando Ttito Surco
 
 1) Busqueda Ciega y Heurística
