@@ -22,3 +22,4 @@ Luis Fernando Ttito Surco
 
   Modelos probados: Resnet50 y Vgg16
   
+![Arquitectura Resnet50](https://github.com/TSffer/IA/blob/master/resnet50.png)
